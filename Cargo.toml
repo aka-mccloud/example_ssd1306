@@ -1,5 +1,5 @@
 [package]
-name = "T001_hello_world"
+name = "example_ssd1306"
 version = "0.1.0"
 edition = "2021"
 
